@@ -1,0 +1,2 @@
+# Predictive-Analytics-for-Monthly-Sales-Forecasting-in-Ecommerce
+This project aims to develop a predictive model for forecasting monthly sales in an ecommerce setting at the SKU (Stock Keeping Unit) level. Leveraging historical sales data, the project focuses on predicting future revenues for individual products, taking into account various factors such as unit prices, product colors, sizes, and seasonal trends.
