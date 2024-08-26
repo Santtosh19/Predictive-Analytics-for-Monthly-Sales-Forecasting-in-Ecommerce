@@ -21,6 +21,12 @@ This project aims to develop a predictive model for forecasting monthly sales in
 - Visualization: Plots the predicted revenue for each SKU.
 - Power BI Dashboard: A Power BI file is included for advanced data visualization and interactive analysis.
 
+## Download the Files
+### The Power BI report file is too large to host directly on GitHub. You can download the files (including the dataset) from the following link:
+
+https://mega.nz/folder/iIVwBTyY#mFU4GjnvtCIYmdHiros5fA
+Please ensure you have Power BI Desktop installed to view the report.
+
 ## Customization
 ### This project is designed to be flexible and customizable:
 
