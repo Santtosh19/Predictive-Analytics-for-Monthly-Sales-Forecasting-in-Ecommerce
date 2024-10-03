@@ -27,6 +27,9 @@ This project aims to develop a predictive model for forecasting monthly sales in
 https://mega.nz/folder/iIVwBTyY#mFU4GjnvtCIYmdHiros5fA
 Please ensure you have Power BI Desktop installed to view the report.
 
+![Screenshot (943)](https://github.com/user-attachments/assets/ae0780ce-20ec-4fd3-857c-8ebdc78d1d16)
+
+
 ## Customization
 ### This project is designed to be flexible and customizable:
 
